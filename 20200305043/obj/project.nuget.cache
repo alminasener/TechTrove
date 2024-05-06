@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2KAqBOEYnvo/YZB5UDvsIRAIxPZ0QiMZrRsmLXf2zNyItwv4rn5PLvwxTNs2ptGYOMoz2nkKFiRjR2cqVL/YkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\almina.sener\\Desktop\\20200305043\\20200305043\\20200305043.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almina.sener\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\almina.sener\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512",
+    "C:\\Users\\almina.sener\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\almina.sener\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
